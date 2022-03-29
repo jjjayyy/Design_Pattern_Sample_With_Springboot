@@ -3,7 +3,7 @@
 디자인패턴 샘플 소스
 
 ### 생성패턴 (Creational Pattern)
-
+#### Singleton Pattern : <https://jjjayyy.tistory.com/108>
 
 
 ### 구조패턴 (Structural Pattern)
